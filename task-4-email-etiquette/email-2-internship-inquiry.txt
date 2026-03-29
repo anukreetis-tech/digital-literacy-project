@@ -10,8 +10,8 @@ available summer internship opportunities at your organization.
 I am particularly interested in gaining practical experience in the fields of Python programming and Artificial Intelligence/Machine Learning. I am actively
 developing my skills in these areas and am eager to apply my knowledge in a professional environment while learning from experienced professionals.
 
-I would greatly appreciate the opportunity to contribute to your team and further enhance my technical and problem-solving abilities. Please let me know if there are
-any available positions or application procedures I should follow.
+I would greatly appreciate the opportunity to contribute to your team and further enhance my technical and problem-solving abilities. Please let me know if there 
+are any available positions or application procedures I should follow.
 
 Thank you for your time and consideration. I look forward to your response.
 
