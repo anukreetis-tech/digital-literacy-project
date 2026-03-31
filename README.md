@@ -34,5 +34,10 @@ In this task, I studied cybercrime with a focus on UPI and online payment fraud.
 
 ---
 
+## Link
+- [Infographic](https://canva.link/4hgdlw8n98t8wce)
+- [Google Form](https://forms.gle/F1DBtKTXSgLxYHez8)
+- [GitHub Profile](https://github.com/anukreetis-tech)
+
 ## Learning Outcome
 Through this project, I learned the importance of digital responsibility, online safety, professional communication, and building a strong digital presence. It also improved my understanding of real-world applications of technology.
